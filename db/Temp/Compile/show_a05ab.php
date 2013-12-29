@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>显示文章列表</title>
-    <link rel="stylesheet" href="http://localhost/CatToys/dist_bootstrap/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="http://localhost/CatToys/dist_bootstrap/css/bootstrap.min.css"> -->
 </head>
 <body>
 <div class="container">
