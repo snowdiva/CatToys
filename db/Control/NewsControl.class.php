@@ -7,7 +7,7 @@
             //查询总条数
             $count = $db->count();
             //分页对象
-            $page = new Page($count,2);
+            $page = new Page($count,3);
             $this->assign("page",$page->show());
             $data = $db->where($page->limit())->all();
             $this->assign("news",$data);

@@ -8,7 +8,7 @@
 <body>
 <div class="container">
 <h3 class="page-header">文章列表</h3>
-    <a href="http://localhost/CatToys/db.php/News/add">发表文章</a>
+    <a href="http://localhost/cattoys/db.php/News/add">发表文章</a>
     <table class="table">
     <tr>
         <td>ID</td>

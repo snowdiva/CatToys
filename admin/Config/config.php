@@ -9,7 +9,7 @@ return array(
     "DB_PORT"                       => 3306,        //数据库连接端口
     "DB_USER"                       => "root",      //数据库用户名
     "DB_PASSWORD"                   => "",          //数据库密码
-    "DB_DATABASE"                   => "",          //数据库名称
-    "DB_PREFIX"                     => "",          //表前缀
+    "DB_DATABASE"                   => "v5",          //数据库名称
+    "DB_PREFIX"                     => "cat_",          //表前缀
 );
 ?>

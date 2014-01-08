@@ -5,7 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-<form action='http://localhost/CatToys/db.php/News/add' method="post">
+<form action='http://localhost/cattoys/db.php/News/add' method="post">
 <table>
     <tr>
         <td>标题</td>
@@ -28,7 +28,7 @@
                 ,formatUploadUrl:false
         ,allowFileManager:false
         ,allowImageUpload:true
-        ,uploadJson : "http://localhost/CatToys/db.php/News&m=keditor_upload&editor_type=2&Image=1&uploadsize=2000000&maximagewidth=false&maximageheight=false&hdsid=hn0256v96o5evv3l39r1n2qtf3"//处理上传脚本
+        ,uploadJson : "http://localhost/cattoys/db.php/News&m=keditor_upload&editor_type=2&Image=1&uploadsize=2000000&maximagewidth=false&maximageheight=false&hdsid=7titkg6js7nd2ddnsdqvdndoj1"//处理上传脚本
         };var hd_content;
         KindEditor.ready(function(K) {
                     hd_content = KindEditor.create("#hd_content",options_content);
